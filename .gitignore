@@ -1,0 +1,14 @@
+# Dossiers à ignorer
+Captures/
+Datasets/
+
+# Ou plus spécifique
+/Captures/
+/Datasets/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Jupyter Lab
+.jupyter/
